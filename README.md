@@ -1,6 +1,6 @@
-# Burrito Budget
+# Burrito Budget Seed
 
-An Angular seed tutorial application that converts your monthly budget into burritos!  
+An Angular seed training application that converts your monthly budget into burritos!  See [burrito-budget](https://github.com/Whamo12/burrito-budget) for complete source code.  
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
